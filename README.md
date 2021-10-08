@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @Kinasr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Khaled Nasr
 
-<!---
-Kinasr/Kinasr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Software Engineer In Test with more than one year of experience, with great knowledge in test automation.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinasr)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Feel free to reach out to me via
+- LinkedIn: https://www.linkedin.com/in/kinasr/
+
+
+## Visitor count
+![Visitor Count](https://profile-counter.glitch.me/Kinasr/count.svg)
