@@ -1,6 +1,6 @@
 # Hi, I'm Khaled Nasr
 
-I'm a Software Engineer In Test with more than one year of experience, and great knowledge in test automation.
+I'm a Software Engineer In Test with more than three years of experience, and excellent knowledge of test automation.
 
 
 
